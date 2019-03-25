@@ -1,0 +1,2 @@
+*exe filter=lfs diff=lfs merge=lfs -text
+xebia/.terraform/plugins/windows_amd64/terraform-provider-aws_v2.1.0_x4.exe filter=lfs diff=lfs merge=lfs -text

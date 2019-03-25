@@ -1,0 +1,3 @@
+inbound rule for security group
+type:-- ALL TCP 
+Source:-- Laptop ip/32
